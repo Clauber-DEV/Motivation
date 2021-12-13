@@ -3,7 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/claub/AndroidStudioProjects/Motivation/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/claub/AndroidStudioProjects/Motivation/app/src/main/res/drawable/ripple_botton.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/claub/AndroidStudioProjects/Motivation/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/claub/AndroidStudioProjects/Motivation/app/src/main/res/layout/activity_splash.xml" value="0.25" />
       </map>
     </option>

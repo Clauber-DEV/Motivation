@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#BA3F18"
+    android:background="#05FF9B"
     android:padding="16dp"
     tools:context=".ui.SplashActivity">
 
@@ -35,7 +35,7 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="16dp"
-        android:backgroundTint="#9C27B0"
+        android:backgroundTint="#2196F3"
         android:padding="8dp"
         android:text="SALVAR"
         android:textColor="@color/white" />
